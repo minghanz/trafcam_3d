@@ -1,4 +1,4 @@
-![Detection example](yolov3/detection_example_wide.png)
+![Detection example](detection_example.png)
 # Introduction
 
 This directory contains the implementation for the paper [**Monocular 3D Vehicle Detection Using Uncalibrated Traffic Cameras through Homography**](https://arxiv.org/pdf/2103.15293.pdf). 
