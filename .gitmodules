@@ -1,0 +1,4 @@
+[submodule "yolov3"]
+	path = yolov3
+	url = https://github.com/minghanz/yolov3
+	branch = rotated_bbox
