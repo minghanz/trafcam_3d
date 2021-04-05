@@ -2,3 +2,6 @@
 	path = yolov3
 	url = https://github.com/minghanz/yolov3
 	branch = rotated_bbox
+[submodule "bev"]
+	path = bev
+	url = https://github.com/minghanz/bev
