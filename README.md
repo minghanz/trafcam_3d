@@ -1,6 +1,5 @@
-# trafcam_3d
-Repository for the paper "Monocular 3D Vehicle Detection Using Uncalibrated Traffic Camerasthrough Homography"
+![Detection example](yolov3/detection_example_wide.png)
+# Introduction
 
-It includes code of the r-box detection network on BEV and the code for data synthesis of traffic camera images. 
-
-The code is coming soon. 
+This directory contains the implementation for the paper [**Monocular 3D Vehicle Detection Using Uncalibrated Traffic Cameras through Homography**](https://arxiv.org/pdf/2103.15293.pdf). 
+It includes code of the r-box detection network on BEV and the code for data synthesis of traffic camera images. They are organized as submodules. 
